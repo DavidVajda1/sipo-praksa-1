@@ -1,0 +1,28 @@
+1. Kaj je OS?
+Je temeljna programska oprema, ki deluje kot vmesnik med uporabnikom, aplikacijami in strojno opremo računalnika.
+2. 3 naloge
+Primerjava računalnikov, specifikacije računalnikov, ustvarjanje mape v powershellu
+
+3. Razlike med Win/Linux/macOS
+Glavne razlike med Windows, Linux in macOS izhajajo iz njihove zasnove, namena in načina uporabe.
+Windows je komercialen operacijski sistem, namenjen širokemu krogu uporabnikov. Njegova največja prednost je združljivost, saj podpira največ programov in iger. Uporabniški vmesnik je standardiziran in večini ljudi dobro poznan, zato je pogosto prva izbira za domačo in pisarniško uporabo. Slabost je večja izpostavljenost virusom in dejstvo, da je običajno plačljiv.
+Linux je odprtokoden sistem, kar pomeni, da je njegova koda prosto dostopna in jo lahko vsak prilagaja. Zaradi tega obstaja veliko različnih različic (distribucij), ki se lahko precej razlikujejo med seboj. Linux je zelo prilagodljiv in velja za varnega ter stabilnega, zato se pogosto uporablja na strežnikih in med razvijalci. Po drugi strani ima manj podpore za komercialne programe in igre, kar lahko predstavlja omejitev za povprečnega uporabnika.
+macOS je operacijski sistem, ki ga razvija Apple in deluje izključno na njihovih napravah. Znan je po stabilnosti, optimizaciji in dovršenem uporabniškem vmesniku. Dobro je prilagojen za ustvarjalno delo, kot so oblikovanje, video in glasbena produkcija. Slabosti so omejena prilagodljivost, manjša izbira iger in višja cena naprav, na katerih deluje.
+4. Kaj pomeni, da se nekaj naloži ob zagonu?
+Ko rečemo, da se nekaj naloži ob zagonu, pomeni, da se program ali storitev samodejno zažene takoj, ko vklopiš računalnik oziroma ko se zažene operacijski sistem.
+5. Kaj je gonilnik?
+Gonilnik je poseben program, ki omogoča, da operacijski sistem komunicira s strojno opremo računalnika. Operacijski sistemi, kot so Windows, Linux in macOS, brez gonilnikov ne bi znali pravilno uporabljati naprav, kot so tipkovnica, miška, tiskalnik ali grafična kartica. Gonilnik deluje kot nekakšen posrednik oziroma “prevajalec”, ki poskrbi, da sistem razume ukaze in jih pravilno posreduje napravi. Vsaka strojna naprava potrebuje svoj gonilnik, ki ga običajno zagotovi proizvajalec. Če gonilnik ni nameščen ali ni ustrezen, naprava ne deluje pravilno ali sploh ne deluje. Zato so gonilniki pomemben del delovanja vsakega računalnika.
+
+
+6. Kje ga uporablamo?
+Gonilnike potrebujemo povsod, kjer operacijski sistem komunicira s strojno opremo. Brez njih naprave ne bi delovale pravilno ali pa jih sistem sploh ne bi prepoznal. To velja za vse operacijske sisteme.
+7. HDD vs SSD
+Če primerjamo HDD in SSD, ugotovimo, da se razlikujeta predvsem v načinu delovanja in hitrosti. HDD je starejša tehnologija, ki deluje s pomočjo vrtečih se plošč, zato je počasnejši, bolj občutljiv na udarce in lahko tudi nekoliko glasen. Njegova prednost je predvsem nižja cena, zaradi česar je primeren za shranjevanje večjih količin podatkov.
+SSD pa uporablja pomnilniške čipe in nima gibljivih delov, kar omogoča bistveno hitrejše delovanje, tišje delovanje in večjo zanesljivost. Zaradi tega se računalnik hitreje zažene, programi pa delujejo bolj tekoče. Slabost SSD-ja je višja cena, vendar se ta razlika postopoma zmanjšuje.
+Na splošno velja, da je SSD boljša izbira za vsakodnevno uporabo in delovanje sistema, medtem ko je HDD primeren kot dodatni disk za shranjevanje večjih datotek.
+8. Kaj je particija?
+Particija je del trdega diska ali SSD-ja, ki je razdeljen na več ločenih delov, da jih računalnik lahko uporablja kot samostojne enote. Vsaka particija se lahko obnaša kot svoj “logični disk”, čeprav je fizično vse še vedno na isti napravi.
+
+
+
+
